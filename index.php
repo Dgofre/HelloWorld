@@ -4,7 +4,7 @@
 </head>
 <body>
 	<?php
-	echo "Hello World!";
+	echo "1Vetka";
 	?>
 </body>
 </html>
